@@ -1,6 +1,5 @@
 {
-  "name": "express-boilerplate",
-  "version": "1.0.0",
+  "name": "k911-api",
   "description": "",
   "main": "index.js",
   "scripts": {
